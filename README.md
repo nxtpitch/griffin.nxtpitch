@@ -1,2 +1,2 @@
-# aniveera1.github.io
-Source code for my personal website
+# griffin.nxtpitch.com
+Griffin D'Haenens NXTPItch Site
